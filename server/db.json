@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Arya & Sari",
+      "vision": "Transformasi Digital OSIS Menuju Sekolah Berbasis Inovasi 4.0.",
+      "mission": "1. Mengembangkan platform aspirasi siswa berbasis digital yang transparan.\n2. Menyelenggarakan workshop teknologi dan industri kreatif secara berkala.\n3. Meningkatkan literasi digital di lingkungan sekolah melalui program pendampingan.",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=800&auto=format&fit=crop",
+      "votes": 0,
+      "color": "#1e3a8a"
+    },
+    {
+      "id": 2,
+      "name": "Bella & Citra",
+      "vision": "Mewujudkan Lingkungan Sekolah yang Harmonis, Inklusif, dan Berkarakter.",
+      "mission": "1. Memperkuat kolaborasi dan sinergi antar seluruh ekstrakurikuler.\n2. Mengadakan program 'Mental Health Awareness' dan konseling sebaya.\n3. Menciptakan ruang aman bagi siswa untuk mengekspresikan bakat seni dan budaya.",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=800&auto=format&fit=crop",
+      "votes": 1,
+      "color": "#d4af37"
+    },
+    {
+      "id": 3,
+      "name": "Dimas & Evan",
+      "vision": "OSIS Progresif: Unggul dalam Prestasi, Kuat dalam Solidaritas.",
+      "mission": "1. Optimalisasi fasilitas sekolah melalui sistem advokasi aspirasi siswa yang responsif.\n2. Peningkatan kompetensi kepemimpinan melalui LDKS yang inovatif dan relevan.\n3. Menyelenggarakan kompetisi olahraga dan e-sports tingkat regional.",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=800&auto=format&fit=crop",
+      "votes": 0,
+      "color": "#0f766e"
+    }
+  ],
+  "votes": [
+    {
+      "studentId": "24345488",
+      "candidateId": 2,
+      "timestamp": "2026-05-09T04:22:11.324Z"
+    }
+  ]
+}
